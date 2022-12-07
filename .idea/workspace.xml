@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d745af2a-a0c9-4e8f-8818-137a404ced9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work1" afterDir="false" />
+    <list default="true" id="d745af2a-a0c9-4e8f-8818-137a404ced9d" name="Changes" comment="initial commit&#10;added more work">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +40,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -71,11 +66,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670413435222</updated>
-      <workItem from="1670413436367" duration="909000" />
+      <workItem from="1670413436367" duration="1869000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1670414462772</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670414462772</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit&#10;added more work">
+      <created>1670415194914</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670415194914</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="initial commit&#10;added more work" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit&#10;added more work" />
   </component>
 </project>

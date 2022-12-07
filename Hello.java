@@ -3,6 +3,7 @@ public class Hello {
 
         System.out.println("Hello World");
         System.out.println("Created git repository");
+        System.out.println("Made few commit");
 
 
 
