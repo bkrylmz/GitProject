@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d745af2a-a0c9-4e8f-8818-137a404ced9d" name="Changes" comment="initial commit&#10;added more work">
+    <list default="true" id="d745af2a-a0c9-4e8f-8818-137a404ced9d" name="Changes" comment="started tracking .idea folder by committing it">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +42,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
     "vue.rearranger.settings.migration": "true"
   }
@@ -66,7 +69,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670413435222</updated>
-      <workItem from="1670413436367" duration="1869000" />
+      <workItem from="1670413436367" duration="2439000" />
+      <workItem from="1670480493285" duration="27000" />
+      <workItem from="1670480901665" duration="1417000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1670414462772</created>
@@ -82,7 +87,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670415194914</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="initial commit&#10;added more work">
+      <created>1670415441667</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670415441667</updated>
+    </task>
+    <task id="LOCAL-00004" summary="started tracking .idea folder by committing it">
+      <created>1670481052679</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670481052679</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +121,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="initial commit&#10;added more work" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit&#10;added more work" />
+    <MESSAGE value="started tracking .idea folder by committing it" />
+    <option name="LAST_COMMIT_MESSAGE" value="started tracking .idea folder by committing it" />
   </component>
 </project>
